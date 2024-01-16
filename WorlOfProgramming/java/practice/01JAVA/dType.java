@@ -52,7 +52,7 @@ public class dType{
         // String name = sc.nextLine();
         // System.out.print(name);
 
-        // //if else 
+        //@ */ //if else 
         // boolean isAge = true;
         // if (isAge != false){
         // System.out.println("You can Vote ");

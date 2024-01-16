@@ -16,7 +16,7 @@ Example: Transitioning over 1 second.
 /* it accept s and ms values too 
 Transition options: */
 
-/*? 3: transition-timing-function: Specifies the timing curve used for the transition.
+/**? 3: transition-timing-function: Specifies the timing curve used for the transition.
 Example: Using ease-in-out for a smooth start and end.
 .element {
   transition-timing-function: ease-in-out;

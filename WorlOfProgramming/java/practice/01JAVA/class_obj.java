@@ -19,7 +19,7 @@ class Student {
     String name;
     int standred;
 
-    // // constructor function of Student Class :-
+    // // constructor function of Student Class 
     Student(){
         System.out.println("Student Costructur Called");
     }
@@ -30,7 +30,7 @@ class Student {
     //     this.standred = standred;
     // }
 
-    // // copy constructor 
+    // copy constructor 
     // Student (Student s2){
     //     this.name = s2.name;
     //     this.standred = s2.standred;
